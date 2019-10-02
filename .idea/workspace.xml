@@ -112,9 +112,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Git-2.23.0-64-bit.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/posts" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Downloads\cmder\ImageSharePrg\resources\views\posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Downloads\cmder\ImageSharePrg\resources\views\profiles" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,7 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569462374985</updated>
       <workItem from="1569462382571" duration="8087000" />
-      <workItem from="1569959440422" duration="16092000" />
+      <workItem from="1569959440422" duration="16389000" />
+      <workItem from="1570021267208" duration="7327000" />
     </task>
     <servers />
   </component>
@@ -157,7 +166,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

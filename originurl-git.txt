@@ -1,12 +1,12 @@
 Image Share Program on Git
-https://github.com/SaraM2261/imageshareprg.git
+https://github.com/SaraM2261/ImageShareApp2.git
 
 https://readwrite.com/2013/10/02/github-for-beginners-part-2/
 
 git commit -m "comment here"
-git remote add origin https://github.com/username/myproject.git
-git push origin master
+git remote add origin URL
 
+git push https://github.com/SaraM2261/ImageShareApp2.git master
 
 
 

@@ -81,10 +81,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Image Share Program <br />by Sara Williams
+                    Image Share Program
+                </div>
+                <div><p>By Sara Williams</p>
+                    <h3>Built With Laravel Framework</h3>
+                    <p><strong>Functionality:</strong> Login/Register, Image Upload</p>
+
                 </div>
 
-                <div class="links">
+             <!--  <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
@@ -93,7 +98,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
+                </div> -->
             </div>
         </div>
     </body>

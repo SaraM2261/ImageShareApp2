@@ -5,8 +5,8 @@ A simplified copy cat of Instagram.
 
 ## Built With
 
-* [Laravel](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Composser](https://maven.apache.org/) - Dependency Management
+* [Laravel] - The web framework used
+* [Composser] - Dependency Management
 
 
 ## Authors

@@ -83,7 +83,8 @@
                 <div class="title m-b-md">
                     Image Share Program
                 </div>
-                <div><p>By Sara Williams</p>
+                <div><p>By Sara Williams<br />
+                    (a work in progress)</p>
                     <h3>Built With Laravel Framework</h3>
                     <p><strong>Functionality:</strong> Login/Register, Image Upload</p>
 

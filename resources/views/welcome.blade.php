@@ -84,7 +84,7 @@
                     Image Share Program
                 </div>
                 <div><p>By Sara Williams<br />
-                    (a work in progress)</p>
+                    (a work in progress) | Git Repo: SaraM2261/ImageShareApp2</p>
                     <h3>Built With Laravel Framework</h3>
                     <p><strong>Functionality:</strong> Login/Register, Image Upload</p>
 
